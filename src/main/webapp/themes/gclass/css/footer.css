@@ -1,0 +1,80 @@
+/*尾部*/
+.g_ft{
+    margin-top: 5px;
+    width: 100%;
+    min-width: 1200px;
+    height: auto;
+    background-color: #4A4A4A;
+}
+.g_ft_mn{
+    overflow: auto;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    margin: 0px auto;
+    padding-top: 18px;
+    padding-left: 25px;
+    padding-bottom: 26px;
+    width: 1200px;
+    height: auto;
+}
+.g_ft_box{
+    overflow: auto;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    float: left;
+    padding-right: 40px;
+    width: 50%;
+    height: auto;
+}
+.g_ft_edition{
+    width: 100%;
+    height: auto;
+}
+.g_ft_edition_p{
+    font-size: 14px;
+    color: #FFFFFF;
+    line-height: 30px;
+}
+.g_ft_company{
+    width: 410px;
+    height: auto;
+    overflow: auto;
+}
+.g_ft_company_p{
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.g_ft_p{
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.g_ft_rwm{
+    float: right;
+    width: 80px;
+    height: auto;
+}
+.g_ft_img_mn{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 5px;
+    width: 100%;
+    height: 80px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.g_ft_img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.g_ft_img_span{
+    display: block;
+    width: 100%;
+    height: 16px;
+    font-size: 12px;
+    line-height: 16px;
+    color: #fff;
+    text-align: center;
+}
