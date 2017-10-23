@@ -12,7 +12,7 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>登录-极课教育云</title>
+		<title>登录-你微笑时好美</title>
 
 		<spring:theme code="iconfont.css.file" var="iconfontCssFile" />
 		<spring:theme code="public.css.file" var="publicCssFile" />
@@ -32,20 +32,20 @@
 	  	<![endif]-->
 	</head>
 	<body id="cas">
-		<header class="g_hd">
-	        <div class="g_hd_top">
+		 <header class="g_hd">
+	        <!-- <div class="g_hd_top">
 	            <div class="g_hd_top_mn">
 	                <div class="g_hd_top_logo">
 	                    <img class="g_hd_top_logo_img" src="themes/gclass/images/knowledge_base_list_top_logo.png" />
 	                </div>
 	            </div>
-	        </div>
+	        </div> -->
 	        <div class="g_hd_bot">
 	            <div class="g_hd_bot_mn">
 	                <div class="g_hd_bot_logo">
 	                    <img class="g_hd_bot_logo_img" src="themes/gclass/images/logo_b.png" />
 	                </div>
-	                <p class="g_hd_bot_tt">极课教育云</p>
+	                <p class="g_hd_bot_tt">你微笑时好美</p>
 	            </div>
 	        </div>
 	    </header>
@@ -90,18 +90,18 @@
 	                    <p class="g_ft_edition_p">Copyright © 2016 GCLASS. All Rights Reserved.</p>
 	                </div>
 	                <div class="g_ft_company">
-	                    <p class="g_ft_company_p">技术支持：上海极课信息技术有限公司</p>
-	                    <p class="g_ft_p">沪ICP备16019448号-1</p>
+	                    <p class="g_ft_company_p">技术支持：你微笑时好美</p>
+	                    <p class="g_ft_p">沪ICP备100000000号-1</p>
 	                </div>
 	            </div>
-	            <div class="g_ft_box">
+	           <!--  <div class="g_ft_box">
 	                <div class="g_ft_rwm">
 	                    <div class="g_ft_img_mn">
 	                        <img class="g_ft_img" src="themes/gclass/images/close_bg_01.png" />
 	                    </div>
 	                    <span class="g_ft_img_span">安卓APP下载</span>
 	                </div>
-	            </div>
+	            </div> -->
 	        </div>
 	    </footer>
 	</body>
